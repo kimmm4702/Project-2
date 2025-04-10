@@ -74,8 +74,11 @@ figcaption {
     gap: 2rem;
   }
 }
+
+
 .pricing-section {
   margin-top: 2rem;
+  text-align: center;
 }
 
 .pricing-section h2 {
@@ -83,6 +86,26 @@ figcaption {
   margin-bottom: 1rem;
   color: #3a2e25;
 }
+
+
+.room-image {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.room-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.room-image figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
 
 .pricing-table {
   width: 100%;
@@ -102,9 +125,27 @@ figcaption {
   text-align: center;
 }
 
+
 .pricing-note {
   font-size: 0.9rem;
   color: #555;
   line-height: 1.4;
 }
 
+.call {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin: 1rem 0;
+}
+
+.pricing-notes {
+  list-style: none;
+  padding: 0;
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  color: #444;
+}
+
+.pricing-notes li {
+  margin-bottom: 0.5rem;
+}
