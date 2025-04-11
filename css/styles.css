@@ -8,7 +8,7 @@ body {
 
 header,
 footer {
-  background-color: #4b3d33;
+  background-color: #74B9D9;
   color: #f5f3ed;
   padding: 1rem;
   text-align: center;
@@ -170,7 +170,7 @@ figcaption {
 .layout img{
   width: 300px;
   height: auto;
-
+}
 .slideshow-container {
   position: relative;
   max-width: 600px;
