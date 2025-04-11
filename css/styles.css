@@ -25,9 +25,6 @@ nav a {
   color: #f5f3ed;
   text-decoration: none;
 }
-nav a: hover{
-  color: lightblue;
-}
 
 nav a.active {
   font-weight: bold;
