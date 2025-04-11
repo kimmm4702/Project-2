@@ -156,7 +156,7 @@ figcaption {
   text-align: center ;
 }
 
-.layout{
+.layout, .footer-layout{
   display: flex;
   justify-content: center;
   padding: 50px;
