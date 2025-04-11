@@ -166,3 +166,8 @@ figcaption {
   border:4px solid sandybrown;
   border-radius: 15px;
 }
+.layout img{
+  width: 300px;
+  height: auto;
+
+}
