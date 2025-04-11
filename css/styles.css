@@ -150,7 +150,7 @@ figcaption {
   margin-bottom: 0.5rem;
 }
 
-#info{
+.main-layout{
   border: 3px solid #2BD99E;
   border-radius: 15px;
   text-align: center ;
