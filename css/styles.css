@@ -153,10 +153,10 @@ figcaption {
 .layout{
   display: flex;
   justify-content: center;
-  padding: 20px;
+  padding: 30px;
   gap: 20px;
 }
 #dates, #attractions, #location{
   border:4px solid sandybrown;
-  border-radius: 25px;
+  border-radius: 15px;
 }
