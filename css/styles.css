@@ -25,10 +25,8 @@ nav a {
   color: #f5f3ed;
   text-decoration: none;
 }
-
-nav a.active {
-  font-weight: bold;
-  text-decoration: underline;
+nav a:hover{
+  color: #FFD700;
 }
 
 main {
