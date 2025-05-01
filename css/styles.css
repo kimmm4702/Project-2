@@ -25,6 +25,10 @@ nav a {
   color: #f5f3ed;
   text-decoration: none;
 }
+nav a:hover{
+  background-color: #f5f3d;
+  color: #74B9D9;
+}
 
 nav a.active {
   font-weight: bold;
